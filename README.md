@@ -1,7 +1,7 @@
 # Eve Analytics Engine v1.0
 
 <!-- wisent-readme-signals:start -->
-[![CI](https://github.com/wisent-ai/eve-analytics/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/wisent-ai/eve-analytics/actions/workflows/tests.yml)
+[![Tests](https://github.com/wisent-ai/eve-analytics/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/wisent-ai/eve-analytics/actions/workflows/tests.yml)
 [![Release](https://img.shields.io/github/v/release/wisent-ai/eve-analytics?display_name=tag&sort=semver)](https://github.com/wisent-ai/eve-analytics/releases)
 [![Downloads](https://img.shields.io/github/downloads/wisent-ai/eve-analytics/total)](https://github.com/wisent-ai/eve-analytics/releases)
 [![License](https://img.shields.io/github/license/wisent-ai/eve-analytics)](https://github.com/wisent-ai/eve-analytics)
